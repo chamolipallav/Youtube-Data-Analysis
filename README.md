@@ -41,4 +41,15 @@ Steps followed to complete the project
 4. Create IAM User for the Project and Set up password to login through IAM Credentials into AWS Management Console.
 5. use Aws Command line to copy the data into S3 bucket.
 6. Create S3 bucket to store data. and follow the Cli_command into terminal to execute the command and copy the data to s3.
-7. Create IAM Role for the S3 bucket and Map it to S3
+7. Create IAM Role for the S3 bucket and Map it to S3.
+8. Create lambda fuction for the S3 and test the code in lambdafunction.py
+9. and for the rest follow this video link : https://www.youtube.com/watch?v=qFaaKme5eDE&list=PLBJe2dFI4sguF2nU6Z3Od7BX8eALZN3mU&index=2
+
+----------------------------------------------------------------
+# QuickSight Graph 
+----------------------------------------------------------------
+![Uploading Screenshot 2023-04-17 at 3.59.19 pm.png…]()
+
+![Screenshot 2023-04-17 at 3 58 59 pm](https://user-images.githubusercontent.com/100506830/232397391-a5577175-ffb0-49b9-ab31-5122be351e6b.png)
+
+
