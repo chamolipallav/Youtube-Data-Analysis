@@ -48,8 +48,10 @@ Steps followed to complete the project
 ----------------------------------------------------------------
 # QuickSight Graph 
 ----------------------------------------------------------------
-![Uploading Screenshot 2023-04-17 at 3.59.19 pm.png…]()
-
 ![Screenshot 2023-04-17 at 3 58 59 pm](https://user-images.githubusercontent.com/100506830/232397391-a5577175-ffb0-49b9-ab31-5122be351e6b.png)
+videos related to People & Blog was the top most videos viewed.
 
 
+![Screenshot 2023-04-17 at 3 59 19 pm](https://user-images.githubusercontent.com/100506830/232397662-a6ff5e26-e006-4ba8-932f-1de2e31eb543.png)
+
+Music is the top category viewed by people.
