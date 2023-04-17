@@ -49,9 +49,18 @@ Steps followed to complete the project
 # QuickSight Graph 
 ----------------------------------------------------------------
 ![Screenshot 2023-04-17 at 3 58 59 pm](https://user-images.githubusercontent.com/100506830/232397391-a5577175-ffb0-49b9-ab31-5122be351e6b.png)
+
 videos related to People & Blog was the top most videos viewed.
 
 pie chart for the similar data
+
 ![Screenshot 2023-04-17 at 4 19 30 pm](https://user-images.githubusercontent.com/100506830/232402296-1c2fc121-a2cb-44f6-968c-17350a42d34d.png)
+
+views by country
+
+Germany have highest views
+
+![Screenshot 2023-04-17 at 4 29 55 pm](https://user-images.githubusercontent.com/100506830/232402651-65633454-bc88-4ff9-bfb6-5960970bf9c4.png)
+
 
 
