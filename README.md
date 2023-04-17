@@ -39,4 +39,6 @@ Steps followed to complete the project
 2. downloade the Amazon CLI and Install it on the machine : https://aws.amazon.com/cli/
 3. check by typing "aws" in command line if CLI has been installed.
 4. Create IAM User for the Project and Set up password to login through IAM Credentials into AWS Management Console.
-5. 
+5. use Aws Command line to copy the data into S3 bucket.
+6. Create S3 bucket to store data. and follow the Cli_command into terminal to execute the command and copy the data to s3.
+7. Create IAM Role for the S3 bucket and Map it to S3
